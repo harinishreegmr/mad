@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774735849607",
+    "project_id": "lorry-app-34747",
+    "storage_bucket": "lorry-app-34747.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774735849607:android:1a3ae4223f9b00836df022",
+        "android_client_info": {
+
+          "package_name": "com.example.lorryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774735849607-c903128e43n5qt3qabnvq6av05ekvggs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh-olC_ikgy8JwQCNVhcPOYmiSQXGulbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774735849607-c903128e43n5qt3qabnvq6av05ekvggs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
